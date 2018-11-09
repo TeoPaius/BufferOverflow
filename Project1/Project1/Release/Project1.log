@@ -1,0 +1,12 @@
+﻿cl : Command line warning D9025: overriding '/sdl' with '/GS-'
+  main.c
+d:\faculta an3\security\overflow\project1\project1\main.c(15): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+d:\faculta an3\security\overflow\project1\project1\main.c(17): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating code
+d:\faculta an3\security\overflow\project1\project1\main.c(15): warning C4789: buffer 'a' of size 3 bytes will be overrun; 13 bytes will be written starting at offset 0
+d:\faculta an3\security\overflow\project1\project1\main.c(17): warning C4789: buffer 'b' of size 3 bytes will be overrun; 13 bytes will be written starting at offset 0
+  1 of 2 functions (50.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project1.vcxproj -> D:\faculta an3\security\overflow\Project1\Release\Project1.exe

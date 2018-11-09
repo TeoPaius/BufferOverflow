@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1539967976 source:d:\faculta an3\security\overflow\codeblock\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
